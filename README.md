@@ -73,3 +73,14 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+## Achievements
+1. Sass
+2. Bootstrap & Fontawesome (CDN)
+3. Bootstrap Modal
+4. Form validation
+5. Multi-Lang (i18n)
+6. Ajax fetch model (use Nuxt s $Fetch, async/await)
+7. Auth (JWT, Middleware, EmailVerify)
+8. ToDoList
